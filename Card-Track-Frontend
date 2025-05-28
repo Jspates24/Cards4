@@ -1,9 +1,0 @@
-card_value_tracker/
-├── backend/
-│   ├── app.py
-│   └── requirements.txt
-├── frontend/     
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-└── README.md

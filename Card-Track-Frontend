@@ -2,7 +2,7 @@ card_value_tracker/
 ├── backend/
 │   ├── app.py
 │   └── requirements.txt
-├── Frontend/     
+├── frontend/     
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
